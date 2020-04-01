@@ -8,7 +8,7 @@
 
 # lterm: Online bash terminal(emulator) tutorial
 
-Check out the site live at:  [![lterm](https://img.shields.io/badge/webiste-live-brightgreen.svg?style=flat-square)](https://sr6033.github.io/lterm/)	[![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/lterm/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+Check out the site live at:  [![lterm](https://img.shields.io/badge/webiste-live-brightgreen.svg?style=flat-square)](http://shc.dx.am)	[![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://wa.me/6383119962824)
 
 **lterm** is an online **Terminal Emulator**. It is a step by step tutorial that will teach you the **bash** commands by making you execute them.
 
@@ -46,14 +46,14 @@ Command| Does...
 ### Contributing
 
 
-1. Fork it (<https://github.com/sr6033/lterm/fork>)
+1. Fork it (<https://github.com/riski150704/lterm/)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
 #### To add your new commands
-- edit the file **<a href="https://github.com/sr6033/lterm/blob/master/js/main.js">main.js</a>** to add your commands.
+- edit the file **<a href="https://github.com/riski150704/lterm/blob/master/js/main.js">main.js</a>** to add your commands.
 - You don't have to worry about any other files or programs.
 
 ---
