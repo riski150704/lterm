@@ -369,11 +369,9 @@ jQuery(document).ready(function($)
                    "|_______| o |__|    |_______| |__|\\_\\ |__| |__|   /_/ |____|  \n" +
                    " _____________________________________________\n" +
                   "|_____________________________________________|\n" +
-                   "      All rights reserved © Shubham Rath\n\n" +
-                   "The world is your oyster, or really the shell is your oyster. \n\nWhat is the [[b;#44D544;]shell]?\n" +
-                   "> The shell is basically a program that takes your commands from the keyboard and sends them to the operating system to perform.\n" +
-                   "> The [[b;#44D544;]Terminal] is a program that launches a shell for you.\n" +
+                   "      All rights reserved © Mohamat Riski Fauzi\n\n" +
                    "> Type [[b;#ff3300;]help] to see the list of [[b;#44D544;]commands/tasks].\n\n" +
+                   "> Thanks to: Surabaya Hacker Community
                    '> Start with [[b;#ff3300;]echo "any string"].\n',
         onBlur: function() {
             // prevent loosing focus
