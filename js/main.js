@@ -371,7 +371,7 @@ jQuery(document).ready(function($)
                   "|_____________________________________________|\n" +
                    "      All rights reserved © Mohamat Riski Fauzi\n\n" +
                    "> Type [[b;#ff3300;]help] to see the list of [[b;#44D544;]commands/tasks].\n\n" +
-                   "> Thanks to: Surabaya Hacker Community
+                   "> Thanks to: | Surabaya Hacker Community | PsychoXploit |\n\n" +
                    '> Start with [[b;#ff3300;]echo "any string"].\n',
         onBlur: function() {
             // prevent loosing focus
